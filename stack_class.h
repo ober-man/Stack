@@ -1,5 +1,5 @@
 #pragma once
-#include"errors.h"
+#include"enums.h"
 template <typename elem_t>
 class Stack
 {
